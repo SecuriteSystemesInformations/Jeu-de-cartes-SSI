@@ -8,5 +8,5 @@
 - Choisir la plateforme à partir de laquelle de le jeu est lancé.
 - Profiter
 
-##Pour les utilisateurs d'Android, placer le fichier .apk (se trouvant dans le dossier "Android") sur un téléphone Android puis l'installer à partir du téléphone
+## Pour les utilisateurs d'Android, placer le fichier .apk (se trouvant dans le dossier "Android") sur un téléphone Android puis l'installer à partir du téléphone
 
