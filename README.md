@@ -2,3 +2,4 @@
 🎮 Jeu de cartes sur la sécurité des systèmes d'informations 🔐
 
 # Comment jouer ?
+![](images/extract.png)
