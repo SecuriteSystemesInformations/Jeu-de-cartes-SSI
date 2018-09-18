@@ -9,7 +9,8 @@
 - Ouvrir ce dossier et choisir la plateforme à partir de laquelle de le jeu est lancé.
 - Si vous avez cliqué sur le dossier "Windows", lancez le fichier .exe
 
+## Pour les utilisateurs d'Android, placer le fichier .apk (se trouvant dans le dossier "Android") sur un téléphone Android puis l'installer à partir du téléphone
+
 # Comment jouer ?
 
-## Pour les utilisateurs d'Android, placer le fichier .apk (se trouvant dans le dossier "Android") sur un téléphone Android puis l'installer à partir du téléphone
 
