@@ -3,7 +3,7 @@
 
 # Comment jouer ?
 - Cliquer sur "Clone or download" puis "Download ZIP"
-- Une fois téléchargé, extraier le fichier ZIP et vous devez obtenir un dossier comme celui ci-dessous.
+- Une fois téléchargé, extraire le fichier ZIP et vous devez obtenir un dossier comme celui ci-dessous.
 ![](images/extract.png)
 - Ouvrir ce dossier et choisir la plateforme à partir de laquelle de le jeu est lancé.
 - Si vous avez cliqué sur le dossier "Windows", lancez le fichier .exe
