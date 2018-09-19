@@ -19,7 +19,7 @@
 
 ![](images/jeu_config.png)
 
-Vous devez juste modifier la résolution et la qualité du jeu si vous le souhaitez, et cliquez sur "Windowed" si la résolution choisie n'est pas la résolution maximale. (Attention : Une qualité graphique élevée demandera plus de ressources sur votre ordinateur).
+Vous devez juste modifier la résolution et la qualité du jeu si vous le souhaitez, et cliquer sur "Windowed" si la résolution choisie n'est pas la résolution maximale. (Attention : Une qualité graphique élevée demandera plus de ressources sur votre ordinateur).
 
 - Une fois terminé, cliquer sur "Play" et ceci devrait apparaître :
 
